@@ -1,0 +1,16 @@
+{
+  "name": "lol-patch-notes-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that posts latest League of Legends patch notes automatically and via /guncel command.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "register": "node src/registerCommands.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.17.0",
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "token": "DISCORD_BOT_TOKENIN",
+  "clientId": "DISCORD_APPLICATION_CLIENT_ID",
+  "guildId": "SUNUCU_ID (development için)",
+  "channelId": "PATCH_NOTES_KANAL_ID",
+  "checkIntervalMinutes": 60,
+  "patchNotesListUrl": "https://www.leagueoflegends.com/tr-tr/news/tags/patch-notes/"
+}
